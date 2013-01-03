@@ -1,4 +1,6 @@
 ---
+layout: page
+name: recognition-and-awards
 title: Recognition Received
 caption: one of the best 8 NGOs in the country
 ---

@@ -1,4 +1,6 @@
 ---
+layout: page
+name: mission-and-vision
 title: Organizational Profile
 caption: ‘Protsahan’ is a Hindi word which means ‘Encouragement’.
 ---

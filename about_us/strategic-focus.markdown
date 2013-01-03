@@ -1,4 +1,6 @@
 ---
+layout: page
+name: strategic-focus
 title: Strategic Focus
 caption: The larger aim is to make the children aware of their surroundings and motivate them to join government schools for further education.
 ---
