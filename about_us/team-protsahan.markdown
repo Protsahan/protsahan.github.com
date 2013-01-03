@@ -4,38 +4,34 @@ name: team-protsahan
 title: Team Protsahan
 caption: for each project undertaken
 ---
-**Ms Sonal Kapoor, Founder CEO:** A Microbiologist MBA whose strength lies in grassroot community
-initiatives empowering her country's children and women through creativity and design based
-approaches. She has been influential in building strong youth leadership platforms by promoting
-the spirit of volunteering throughout the country. She started Protsahan at 23 when she saw a
-young mother sending her 8 year old daughter to a brothel to feed the rest of her five daughters.
 
-*..... to add more*
 
-**Ms. Shruthi Komandur, COO and Chapter Head - Singapore:** An IIT-Madras alumni, she has worked
-at Oil and Gas, Norway, ITC and Schlumberger as a mechanical engineer. She has been crucial in
-building the structure at Protsahan at its grassroot initiatives with the Founder.
+Protsahan is a people centric organization. Work Culture at Protsahan is open, friendly, inviting and highly energetic. *“The most important value at Protsahan in Empathy”.*
 
-*..... to add more*
+####Ms Sonal Kapoor, Founder CEO and Creative Director
+A microbiologist MBA whose strength lies in grassroot community initiatives empowering her country's children and women through education and skills development. Ex-Communications and Advertising person, she is one of the youngest social entrepreneurs in India to lead an international non profit creating mass impact and was chosen as The Youth Delegate 2011 at The World Bank-IMF and for Australia-India Youth Conference 2012.
 
-**Ms. Latvia Lamba, Chief Project Coordinator**: Had worked as a volunteer with Protsahan for over 7
-months religiously. She had been tested in the waters of Protsahan and was ready to take up a full
-time position there.
+She has spoken at several TED events, IIM's and IIT's. She has also been felicitated by ex President of Singapore, Mr. S R. Nathan. Sonal is passionate about writing and changing the most pressing problems of the third world through creativity and design.
 
-*..... to add more*
+####Ms. Sadhna Thakur, Teacher and Community Changemaker
+She was one of the first working staff Protsahan employed full-time. She is the woman who has led and helped found Protsahan along with the Founder. A brilliant Madhubani artist, she is Protsahan's most commendable micro-entrepreneur who later joined our team as a core pillar and teacher.
 
-**Mr. Antony Davis, Chief: Communications & Liaisons (India)** A young dynamic changemaker from
-St. Stephens college, Delhi who
+####Ms. Shruthi Komandur, Chief Operating Officer
+An IIT-Madras alumnus, she has worked at Oil and Gas, Norway, ITC and Schlumberger as a mechanical engineer. Currently pursuing her MBA at INSEAD, Shruthi has been crucial in building the structure at Protsahan at its grassroot initiatives and single handedly founded the organization's Singapore chapter. [Add more with photo of each: Shru to
+coordinate]
 
-*..... to add more*
+####Gunjeet Singh Hattar, Chief - Graphics & Design [Add more]
 
-**Ms. Sadhna Thakur, Teacher and Community Changemaker,** was one of the first working staff
-Protsahan employed full-time. She is the woman who has led and helped found Protsahan along
-with the Founder.
+####Ms. Latvia Lamba, Chief Project Coordinator [Add more]
 
-*..... to add more*
+####Mr. Gaurav Gursahani, Chief - Social Media
 
-Protsahan also has a Mentorship Team or the ‘Steering Group’ which consists of
-eminent personalities from the best and successful for profit and non-profit organizations. Our
-core team of 15 comprise young change makers from some of the most prestigious colleges and
-corporate organizations across the world.
+####Ms. Tripti Bhaduariya, Project Officer,Singapore [Add more]
+
+####Ms. Vartika Gupta: Chief - Communications [Add more]
+
+####Ms. Vaishnavi, Project Officer - Chennai [Add more]
+
+####Mr. Ashwin Sanzgiri: CSR Head [Add more]
+
+####Ms. Madhusha Dash: Project Officer - Mumbai [Add more]

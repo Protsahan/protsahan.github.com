@@ -18,3 +18,6 @@ to ‘slumgods’ and prove to the society that it’s not farcical to trust an 
 woman to bring about a dawn of a revolutionary perspective. We hope to spread the confidence and
 smiles in manifolds by touching the lives of as many slums as possible across Delhi and eventually
 country-wide.
+
+Under Project Stree, Protsahan holds highly innovative *slum panchayats* and *micro-entrepreneurship
+training* livelihood workshops to give voice to young women on rights of gender equality and health.

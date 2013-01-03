@@ -40,12 +40,4 @@ children who need maximum care and guidance, but sadly not much has been done.
 This is where Protsahan steps in. We provide creative and very innovative platforms like street
 plays, theatre, dance, photography, etc. for them to develop full flegedly into fearless and
 confident young ones and chart out a life trajectory for themselves. We partner with several
-organizations for rehabilitation etc. Currently we are working with about 300 children at
-Uttam Nagar area [in New Delhi], but wish to reach out to about a 1000 children and more
-with this project this year.
-
-### Numbers we plan to reach out to
-
-Currently we have about 300 children on rolls and regularly attending our classes. We aim
-to reach out to atleast a 1000 in the next year. We have 4 full time staff members, the
-numbers will be about 7 by the end of year working on a thousand children.
+organizations for rehabilitation etc.
