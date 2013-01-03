@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class=row>
+  <article class="span7 offset1">
+    <section class="page-header">
+      <h2>
+        {{page.title}}
+        <small>{{page.caption}}</small>
+      </h2>
+    </section>
+    <section class="leader">
+      <img src="/images/{{page.name}}.jpg" alt="{{page.title}}" />
+    </section>
+    <section>
+      {{content}}
+    </section>
+  </article>
+  <aside class="span3">
+    {% include facebook-like-box.html %}
+  </aside>
+</div><!-- row -->

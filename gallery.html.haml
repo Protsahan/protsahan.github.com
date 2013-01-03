@@ -1,0 +1,25 @@
+- provide :title, 'Gallery'
+- content_for :js do
+  #modal-gallery.modal.modal-gallery.hide.fade{:tabindex => "-1"}
+    .modal-header
+      %a.close{"data-dismiss" => "modal"} ×
+      %h3.modal-title
+    .modal-body
+      .modal-image
+    .modal-footer
+      %a.btn.btn-success.pull-left.modal-play.modal-slideshow{"data-slideshow" => "5000"}
+        %i.icon-play.icon-white
+        Slideshow
+      %a.btn.pull-left.modal-download{:target => "_blank"}
+        %i.icon-download
+        Download
+      %a.btn.btn-info.modal-prev
+        %i.icon-arrow-left.icon-white
+        Previous
+      %a.btn.btn-primary.modal-next
+        Next
+        %i.icon-arrow-right.icon-white
+  :coffee
+    $ ->
+      window.router = new Protsahan.Routers.PicasaImagesRouter()
+      Backbone.history.start()

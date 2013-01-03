@@ -1,0 +1,14 @@
+---
+title: Work Culture
+caption: "&#8220;The most important value at Protsahan in Empathy&#8221;"
+---
+Protsahan employs 4 full time employees, 1 free lancing Charted Accountant and hundreds of
+volunteers for our graphical and video content. This brings huge cost savings for the nascent
+organization. It is youth run and youth led. The organizational structure is flat which makes it
+agile and avoids bureaucracy. This also keeps the team engaged and connected to their end
+beneficiaries, the children and women at slums.
+
+Protsahan is a people centric organization. In the words of the Founder-Director, “Processes are
+made by people. We will value People more than Processes, forever, however both are significant."
+Work Culture at Protsahan is open, friendly, inviting and highly energetic. The Founder-Director
+says, “The most important value at Protsahan in Empathy”.
