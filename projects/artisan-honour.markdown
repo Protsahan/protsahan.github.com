@@ -1,4 +1,6 @@
 ---
+layout: page
+name: artisan-honour
 title: Project Artisan Honour
 caption: Under Project Artisan Honor, Protsahan, adopts several artisan families and provides them market access.
 ---

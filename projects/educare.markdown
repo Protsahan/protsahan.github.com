@@ -1,4 +1,6 @@
 ---
+layout: page
+name: educare
 title: Project Educare
 caption: Education with care, with empathy, with creativity, in its truest sense.
 ---

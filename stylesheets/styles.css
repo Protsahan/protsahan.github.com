@@ -12,7 +12,17 @@ body.team-protsahan nav .team-protsahan,
 body.recognition-and-awards nav .recognition-and-awards,
 body.mission-and-vision nav .mission-and-vision,
 body.strategic-focus nav .strategic-focus,
-body.work-culture nav .work-culture
+body.work-culture nav .work-culture,
+body.stree nav .stree,
+body.educare nav .educare,
+body.artisan-honour nav .artisan-honour,
+body.hundred-happy-faces nav .hundred-happy-faces,
+body.women-micro-entrepreneurs nav .women-micro-entrepreneurs,
+body.slum-panchayats nav .slum-panchayats,
+body.fund-raisers nav .fund-raisers,
+body.protsahan-in-news nav .protsahan-in-news,
+body.press-releases nav .press-releases,
+body.gallery nav .gallery
 {
   border-left: 1px solid rgba(0, 0, 0, 0.2);
   color: white;

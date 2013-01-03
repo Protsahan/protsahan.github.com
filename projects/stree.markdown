@@ -1,4 +1,6 @@
 ---
+layout: page
+name: stree
 title: Project Stree
 caption: ‘Stree’ in Sanskrit means ‘woman’
 ---
