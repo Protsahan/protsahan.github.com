@@ -1,5 +1,7 @@
 ---
-title: Our Team
+layout: page
+name: team-protsahan
+title: Team Protsahan
 caption: for each project undertaken
 ---
 **Ms Sonal Kapoor, Founder CEO:** A Microbiologist MBA whose strength lies in grassroot community

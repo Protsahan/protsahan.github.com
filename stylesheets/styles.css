@@ -8,6 +8,7 @@ body {
 
 body.home nav .home,
 body.our-story nav .our-story,
+body.team-protsahan nav .team-protsahan,
 body.mission-and-vision nav .mission-and-vision
 {
   border-left: 1px solid rgba(0, 0, 0, 0.2);
