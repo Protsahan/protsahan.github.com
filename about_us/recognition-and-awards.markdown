@@ -13,9 +13,9 @@ PVR Nest [CSR wing of PVR Cinemas] currently carries out its Childscapes Project
 India Foundation [under Project Educare] at Vikaspuri, Delhi.
 
 Several organizations, namely, Airtel, Larsen & Toubro, Infosys, Hindustan Times, KPMG,
-Accenture, Ad Astra, Mudra Communications, TCS, Panasonic etc. have had corporate fundraiser
+Accenture, Ad Astra, Mudra Communications, TCS, Panasonic, CitiBank Singapore etc. have had corporate fundraiser
 exhibitions of our products and employee engagement programs with us. We have been
 nominated for Samsung Social Innovation Honors 2011 and NASSCOM Social Honors 2012. We
-have been invited at several TEDx conferences, Delhi Technological University, Jamia Millia Islamia,
+have been invited at several TEDx talks and conferences across Delhi Technological University, Jamia Millia Islamia,
 Delhi University, IIMs and IITs and have very high youth involvement in all our projects. We were
 the official cause of Twitter sponsored 'Twestival' in 2011.
