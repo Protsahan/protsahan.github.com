@@ -35,4 +35,5 @@ Master in software engineering, Gunjeet is currently pursuing his PhD degree on 
 
 ####Mr. Ashwin Sanzgiri: CSR Head [Add more]
 
-####Ms. Madhusha Dash: Project Officer - Mumbai An Electronics Engineer and MBA from Symbiosis International University, Madhusha started the Mumbai Chapter of Protsahan and is also the official blogger of the organization. She’s worked in The Times of India as a freelance journalist in past and is an avid blogger. She is currently working in a brokerage firm in Mumbai and visualizes an empowered/educated India in coming years.
+####Ms. Madhusha Dash: Project Officer - Mumbai 
+An Electronics Engineer and MBA from Symbiosis International University, Madhusha started the Mumbai Chapter of Protsahan and is also the official blogger of the organization. She’s worked in The Times of India as a freelance journalist in past and is an avid blogger. She is currently working in a brokerage firm in Mumbai and visualizes an empowered/educated India in coming years.
