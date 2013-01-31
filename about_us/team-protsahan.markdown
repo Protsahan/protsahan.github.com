@@ -25,13 +25,17 @@ Master in software engineering, Gunjeet is currently pursuing his PhD degree on 
 
 ####Ms. Latvia Lamba, Chief Project Coordinator 
 
-####Mr. Gaurav Gursahani, Chief - Social Media
+####Mr. Gaurav Gursahani, Social Media Associate
+A B.Com graduate and a CA dropout turned advertising professional, Gaurav is employed with Ogilvy & Mather, Singapore and has been volunteering with Protsahan for over 2 years.  He works alongside Sonal and Shruthi to help drive chatter and engagement for Protsahan on social platforms. January 2013, Gaurav made it back alive from his first backpacking trip and strives to continue the tradition of not sticking to any of his day jobs for than a year ! 
 
-####Ms. Tripti Bhaduariya, Project Officer,Singapore [Add more]
+####Ms. Tripti Bhaduariya, Project Officer,Singapore
+Masters in Microbiology ,she worked in the research wing of Ranbaxy Laboratories for 8 years before deciding that this was not her calling in life.A history and culture enthusiast,she has been using stories from indian mythology and history to mobilize the women of the slums for child education and women empowerment.She is passionate about about traveling and reading and is a active member of museum volunteer group in Singapore.
 
-####Ms. Vartika Gupta: Chief - Communications [Add more]
+####Ms. Vartika Gupta: Chief - CSR
+
 
 ####Ms. Vaishnavi, Project Officer - Chennai 
+
 
 ####Mr. Ashwin Sanzgiri: CSR Head [Add more]
 
