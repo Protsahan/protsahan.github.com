@@ -6,6 +6,10 @@ body {
   background-size: 100%;
 }
 
+.center {
+  text-align: center;
+}
+
 body.home nav .home,
 body.our-story nav .our-story,
 body.team-protsahan nav .team-protsahan,
