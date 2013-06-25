@@ -4,6 +4,7 @@ name: gallery
 title: Gallery
 caption: Photos and Videos
 ---
+<link rel="stylesheet" href="/stylesheets/bootstrap-image-gallery.min.css">
 
 <script src="http://cdnjs.cloudflare.com/ajax/libs/lodash.js/1.0.0-rc.3/lodash.underscore.min.js"></script>
 <script src="/javascripts/backbone.min.js"></script>
@@ -11,20 +12,21 @@ caption: Photos and Videos
 <script src="/javascripts/bootstrap-image-gallery.min.js"></script>
 <script src="/javascripts/gallery.js"></script>
 
+<div class=content></div>
 <div id="modal-gallery" class="modal modal-gallery hide fade" tabindex="-1" >
   <div class="modal-header">
-    <a class="close" data-dismiss="modal">×</a>
+    <a class="close" data-dismiss="modal">&times;</a>
     <h3 class="modal-title"></h3>
   </div>
   <div class="modal-body">
     <div class="modal-image"></div>
   </div>
   <div class="modal-footer">
-    <a class="btn btn-success pull-left modal-play modal-slideshow" data-slideshow="5000">
+    <a class="btn btn-success pull-left modal-play modal-slideshow" data-slideshow="2000">
       <i class="icon-play icon-white"></i>
       Slideshow
     </a>
-    <a class="btn pull-left modal-download{:target => "_blank"}">
+    <a class="btn pull-left modal-download" target="_blank">
       <i class="icon-download"></i>
       Download
     </a>
@@ -44,4 +46,3 @@ caption: Photos and Videos
     Backbone.history.start();
   });
 </script>
-<div class=content></div>

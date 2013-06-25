@@ -120,7 +120,8 @@ Protsahan.Views.PicasaImages.IndexView = (function(_super) {
   IndexView.prototype.render = function() {
     $(this.el).attr({
       'data-toggle': 'modal-gallery',
-      'data-target': '#modal-gallery'
+      'data-target': '#modal-gallery',
+      'id': 'gallery'
     });
     this.addAll();
     return this;
@@ -145,7 +146,7 @@ Protsahan.Views.PicasaImages.PicasaImageView = (function(_super) {
 
   PicasaImageView.prototype.render = function() {
     $(this.el).attr({
-      rel: 'gallery',
+      'data-gallery': 'gallery',
       href: this.model.get('url'),
       title: this.model.get('title')
     });

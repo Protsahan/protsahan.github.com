@@ -44,3 +44,7 @@ body.gallery nav .gallery
 .content img {
   width: 25%;
 }
+
+.modal-gallery {
+  min-width: 500px;
+}
